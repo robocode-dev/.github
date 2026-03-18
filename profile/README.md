@@ -54,4 +54,6 @@ Bots can be written in **any language** that can open a WebSocket connection and
 
 Thank you, JetBrains, for supporting non-commercial Open Source projects by providing licenses for [Open Source development](https://www.jetbrains.com/community/opensource/?utm_campaign=opensource&utm_content=approved&utm_medium=email&utm_source=newsletter&utm_term=jblogo#support), including Robocode Tank Royale. ❤️
 
-<a href="https://www.jetbrains.com/community/opensource/?utm_campaign=opensource&utm_content=approved&utm_medium=email&utm_source=newsletter&utm_term=jblogo#support"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.svg" alt="JetBrains logo" style="background-color: white; padding: 6px; border-radius: 4px;"></a>
+<a href="https://www.jetbrains.com/community/opensource/?utm_campaign=opensource&utm_content=approved&utm_medium=email&utm_source=newsletter&utm_term=jblogo#support">
+<img height="80" style="background: white; padding: 6px; border-radius: 4px;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.svg" alt="JetBrains logo.">
+</a>
