@@ -40,6 +40,16 @@ Bots can be written in **any language** that can open a WebSocket connection and
 
 ---
 
+## 🏆 Compete in Tank Royale Rumble
+
+Tank Royale Rumble has a reviewed bot catalog, community-run ranked battles, and public rankings.
+
+- [Submit a bot](https://robocode.dev/rumble/bot-author-guide)
+- [Contribute ranked battles](https://robocode.dev/rumble/client-guide)
+- [View current rankings](https://robocode-dev.github.io/rumble-data/)
+
+---
+
 ## 🔗 Links
 
 - 📖 [Documentation](https://robocode-dev.github.io/tank-royale/)
